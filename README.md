@@ -13,4 +13,4 @@ Dou as boas vindas a todos que estão chegando aqui!
 
 # Meus Princípios Técnicos 🛠️🔧
 
-- Qualidade, Organização, eficiência.
+- Qualidade, Organização, Eficiência.
